@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "company": "Apple",
+    "ceo": "Tim Cook",
+    "weath": "2.4 Trillion",
+    "img": "./image/appple.png",
+    "country": "US",
+    "contribution": "-37.3159",
+    "salary": "265 million"
+  },
+  {
+    "id": 2,
+    "company": "Microsoft",
+    "ceo": "Satya Nadella",
+    "weath": "2 Trillion",
+    "img": "./image/micro.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "250 million"
+  },
+  {
+    "id": 3,
+    "company": "Samsung",
+    "ceo": "Kim Hyun-suk",
+    "weath": "1 Trillion",
+    "img": "./image/samsung.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "240 million"
+  },
+  {
+    "id": 4,
+    "company": "Alphabet",
+    "ceo": "Sundar Pichai",
+    "weath": "0.9 Trillion",
+    "img": "./image/alpha.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "230 million"
+  },
+  {
+    "id": 5,
+    "company": "AT&T",
+    "ceo": "John T. Stankey",
+    "weath": "0.8 Trillion",
+    "img": "./image/at&t.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "200 million"
+  },
+  {
+    "id": 5,
+    "company": "Amazon",
+    "ceo": "Andy Jassy",
+    "weath": "2.4 Trillion",
+    "img": "./image/amzon.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "190 million"
+  },
+  {
+    "id": 7,
+    "company": "Verizon",
+    "ceo": "Hans Vestberg",
+    "weath": "2.4 Trillion",
+    "img": "./image/verizon.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "150 million"
+  },
+  {
+    "id": 8,
+    "company": "China Mobile",
+    "ceo": "Dong Xin",
+    "weath": "2.4 Trillion",
+    "img": "./image/china_mobile.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "140 million"
+  },
+  {
+    "id": 9,
+    "company": "Walt Disney",
+    "ceo": "Bob Chapek",
+    "weath": "2.4 Trillion",
+    "img": "./image/world_disney.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "130 million"
+  },
+  {
+    "id": 10,
+    "company": "Facebook",
+    "ceo": "Mark Zuckerberg",
+    "weath": "2.4 Trillion",
+    "img": "./image/fb.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "120 million"
+  },
+  {
+    "id": 11,
+    "company": "Alibaba",
+    "ceo": "Daniel Zhang",
+    "weath": "2.4 Trillion",
+    "img": "./image/ali.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "110 million"
+  },
+  {
+    "id": 12,
+    "company": "Intel",
+    "ceo": "Patrick P. Gelsinger",
+    "weath": "2.4 Trillion",
+    "img": "./image/intel.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "100 million"
+  },
+  {
+    "id": 13,
+    "company": "Softbank",
+    "ceo": "Masayoshi Son",
+    "weath": "2.4 Trillion",
+    "img": "./image/softbank.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "90 million"
+  },
+  {
+    "id": 14,
+    "company": "IBM",
+    "ceo": "Arvind Krishna",
+    "weath": "2.4 Trillion",
+    "img": "./image/ibm.png",
+    "country": "",
+    "contribution": "-37.3159",
+    "salary": "80 million"
+  }
+]

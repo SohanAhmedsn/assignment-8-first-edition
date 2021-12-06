@@ -1,0 +1,24 @@
+
+.card-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.smallimg {
+  width: 150px;
+  height: 150px;
+}
+
+.catCard {
+  margin-bottom: 50px; /* height of the footer or more */
+}
+/* .company-style {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border: 1px solid salmon;
+}
+
+.company-style img {
+  width: 100px;
+} */
